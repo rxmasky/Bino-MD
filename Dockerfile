@@ -14,4 +14,6 @@ RUN npm install
 
 COPY . .
 
-CMD ["node", "."]
+RUN yarn install
+
+CMD ["npm", "start"]
