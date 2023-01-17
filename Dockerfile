@@ -10,8 +10,8 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN bash install.sh
+RUN npm install
 
 COPY . .
 
-CMD ["node", "index.js"]
+CMD ["bash", "install.sh"]
