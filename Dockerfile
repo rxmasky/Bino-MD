@@ -16,4 +16,4 @@ COPY . .
 
 RUN yarn install
 
-CMD ["npm", "start"]
+CMD ["node", "index.js"]
