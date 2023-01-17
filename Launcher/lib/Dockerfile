@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Ajmal-Achu/Wizard-MD  /root/ajmal
+RUN git clone https://github.com/Sparkymon777/Bino-MD  /root/ajmal
 
 RUN apt-get update && \
 apt-get install -y \
