@@ -1,12 +1,12 @@
 
 
-<h1 align="center">SPARKY-BOT<br></h1>
+<h1 align="center">BINO-MD<br></h1>
 <p align="center">
 <img src="https://i.imgur.com/iaWuQRB.jpeg" alt="animated" width="255" height="480" />
 </p>
 
 <p align="center">
-Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install wget
 pkg install imagemagick
-git clone https://github.com/Sparkymon777/SPARKY-BOT
+git clone https://github.com/Sparkymon777/Bino-MD
 cd Bino-MD
 bash install.sh
 ```
@@ -71,7 +71,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Sparkymon777/SPARKY-BOT
+git clone https://github.com/Sparkymon777/Bino-MD
 cd Bino-MD
 bash install.sh
 ```
