@@ -14,4 +14,4 @@ RUN npm install
 
 COPY . .
 
-CMD ["bash", "install.sh"]
+CMD ["", ""]
