@@ -32,7 +32,7 @@ function ffmpeg(buffer, args = [], ext = '', ext2 = '') {
 }
 
 /**
- * Convert Audio to Playable WhatsApp Audio
+ * Convert Audio to Playable WhatsApp 
  * @param {Buffer} buffer Audio Buffer
  * @param {String} ext File Extension 
  */
