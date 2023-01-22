@@ -29,6 +29,10 @@ Bino-MD Multi Device is a automated whatsapp bot created by <a href="https://git
 
 </p>
 
+## DEPLOY TO MOGENIUS
+
+[![Deploy To MOGENIUS](https://i.imgur.com/FD3UXUl.jpeg)](https://mogenius.com)
+
 -------
 
 ## ```Connect With Me```
