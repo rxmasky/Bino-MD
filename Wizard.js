@@ -4767,7 +4767,7 @@ reply(`*Failed to download media and send videos*`)
 })
 }
 break
-case 'igreel': case 'insta': case 'story': {	            
+case 'igreel': {	            
 if (!text) throw '*Enter a Link Query!*'
 const { instagramdl, instagramdlv2, instagramdlv3 } = require('@bochilteam/scraper')
 if (!isUrl(args[0]) && !args[0].includes('instagram.com')) throw '*The link you provided is not valid*'
@@ -6938,9 +6938,9 @@ anu = `╭╼━━᚜ 𝗕𝗜𝗡𝗢-𝗠𝗗 ᚛╾ᐧᐧᐧᐧ⳹
 ┃│ ❒✗ 𝚜𝚎𝚝𝚍𝚎𝚜𝚌 
 ┃│ ❒✗ 𝚜𝚎𝚝𝚙𝚙𝚐𝚛𝚘𝚞𝚙 
 ┃│ ❒✗ 𝚝𝚊𝚐𝚊𝚕𝚕 
-┃│ ❒✗┃│ ❒✗ 𝚑𝚒𝚍𝚎𝚝𝚊𝚐 
+┃│ ❒✗ 𝚑𝚒𝚍𝚎𝚝𝚊𝚐 
 ┃│ ❒✗ 𝚎𝚙𝚑𝚎𝚖𝚎𝚛𝚊𝚕
-┃│ ❒✗┃│ ❒✗ 𝚍𝚎𝚖𝚘𝚝𝚎 
+┃│ ❒✗ 𝚍𝚎𝚖𝚘𝚝𝚎 
 ┃│ ❒✗ 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 
 ┃│ ❒✗ 𝚎𝚍𝚒𝚝𝚒𝚗𝚏𝚘 
 ┊╯
