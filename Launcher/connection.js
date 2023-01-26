@@ -20,23 +20,23 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 
 //settings
 
-let fake = ['917012984396']
+let fake = ['918075390990']
 global.owner = [`${fake}`]
 global.wame = "https://github.com/Sparkymon777/Bino-MD"
-global.pemilik = ['917012984396']
-global.premium = ['917012984396']
-global.pengguna = ['ASWIN']
-global.footer = ['S P A R K Y']
-global.watermark = ['S P A R K Y']
+global.pemilik = ['918075390990']
+global.premium = ['918085390990']
+global.pengguna = ['ARSHAD']
+global.footer = ['M A S K Y']
+global.watermark = ['M A S K Y']
 global.logo = process.env.LOGO
 global.botname = ['Bino MD']
 global.caption = ['𝗕𝗜𝗡𝗢 𝗕𝗢𝗧 𝗠𝗗']
 global.ownername = ['ASWIN SPARKY']
 global.tutorial = "https://youtube.com/@sparkymon777"
 global.youtube = "github.com/Sparkymon777"
-global.packname = "S P A R K Y"
+global.packname = "M A S K Y "
 global.logo = process.env.LOGO
-global.author = "ASWIN"
+global.author = "ARSHAD"
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
